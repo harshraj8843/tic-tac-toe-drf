@@ -6,6 +6,8 @@
 
 <div align="center">
 
+[![Demo Frontend](https://img.shields.io/badge/Frontend_Demo-LIVE-blue)](https://neukcodedemo.web.app/tic-tac-toe) [![Demo Backend](https://img.shields.io/badge/Backend_Demo-LIVE-blue)](https://neukcodedemo.pythonanywhere.com/api/play/)
+
 [![License](https://img.shields.io/github/license/neukcode/tic-tac-toe-drf)](https://github.com/neukcode/tic-tac-toe-drf/blob/master/LICENSE.md) [![Github Repo Size](https://img.shields.io/github/repo-size/neukcode/tic-tac-toe-drf)](https://github.com/neukcode/tic-tac-toe-drf) [![Github Download](https://img.shields.io/github/downloads/neukcode/tic-tac-toe-drf/total)](https://github.com/neukcode/tic-tac-toe-drf)
 
 [![Github Stars](https://img.shields.io/github/stars/neukcode/tic-tac-toe-drf?style=social)](https://github.com/neukcode/tic-tac-toe-drf/stargazers) [![Github Forks](https://img.shields.io/github/forks/neukcode/tic-tac-toe-drf?style=social)](https://github.com/neukcode/tic-tac-toe-drf/network/members) [![Github Watchers](https://img.shields.io/github/watchers/neukcode/tic-tac-toe-drf?style=social)](https://github.com/neukcode/tic-tac-toe-drf/watchers)
