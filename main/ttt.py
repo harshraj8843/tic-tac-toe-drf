@@ -1,4 +1,4 @@
-## Source Code :- https://github.com/neukcode/Tic-Tac-Toe
+## Source Code :- https://github.com/harshraj8843/Tic-Tac-Toe
 
 # for random number selection
 import random
