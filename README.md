@@ -1,18 +1,12 @@
-
 <h3 align="center">Tic Tac Toe</h3>
 
 ---
-
-<p align="center"> A simple tic tac toe game api in Django Rest Framework (backend)
-    <br> 
-</p>
 
 ## 📝 Table of Contents
 
 - [About](#about)
 - [Getting Started](#getting_started)
 - [Built Using](#built_using)
-- [Authors](#authors)
 
 ## 🧐 About <a name = "about"></a>
 
@@ -22,7 +16,7 @@ A simple tic tac toe game api in Django Rest Framework (backend).
 
 - clone project
   ```
-  git clone https://github.com/harshraj8843/tic-tac-toe-drf
+  git clone https://github.com/novicexp/tic-tac-toe-drf
   ```
   ```
   cd tic-tac-toe-drf/
@@ -44,7 +38,3 @@ A simple tic tac toe game api in Django Rest Framework (backend).
 
 - [DJANGO](https://www.djangoproject.com/)
 - [Django Rest Framework](https://www.django-rest-framework.org/)
-
-## ✍️ Authors <a name = "authors"></a>
-
-- [@harshraj8843](https://github.com/harshraj8843)
