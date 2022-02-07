@@ -1,5 +1,3 @@
-## Source Code :- https://github.com/novicexp/Tic-Tac-Toe
-
 # for random number selection
 import random
 
