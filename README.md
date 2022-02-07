@@ -16,7 +16,7 @@ A simple tic tac toe game api in Django Rest Framework (backend).
 
 - clone project
   ```
-  git clone https://github.com/novicexp/tic-tac-toe-drf
+  git clone https://github.com/harshraj8843/tic-tac-toe-drf
   ```
   ```
   cd tic-tac-toe-drf/
